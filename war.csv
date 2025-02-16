@@ -1,0 +1,129 @@
+MovieName,Genre,Ratings,VotecountOrg,DurationOrg,Votecount,Duration
+1. The Six Triple Eight,war,6.7, 22K,2h 7m,22000.0,127
+2. The Ministry of Ungentlemanly Warfare,war,6.8, 128K,2h 2m,128000.0,122
+3. Nr. 24,war,7.5, 13K,1h 51m,13000.0,111
+4. Blitz,war,6.2, 15K,2h,15000.0,120
+5. Amaran,war,8.2, 17K,2h 47m,17000.0,167
+6. Dirty Angels,war,4.3, 2.8K,1h 44m,2800.0,104
+7. William Tell,war,6.3, 314,2h 13m,314.0,133
+8. My Dead Friend Zoe,war,7.2, 273,1h 38m,273.0,98
+9. Uprising,war,6.6, 5K,2h 6m,5000.0,126
+10. Escape from Germany,war,5.3, 787,1h 37m,787.0,97
+11. Laws of Man,war,4.2, 288,1h 38m,288.0,98
+12. Murder Company,war,3.6, 1.5K,1h 26m,1500.0,86
+13. Without Blood,war,7.5, 84,1h 31m,84.0,91
+14. Goebbels and the Führer,war,6.7, 1.7K,2h 15m,1700.0,135
+15. Never Alone,war,7.1, 346,1h 25m,346.0,85
+"16. Love, Courage and the Battle of Bushy Run",war,5.1, 152,1h 53m,152.0,113
+17. Quisling: The Final Days,war,7.1, 928,2h 26m,928.0,146
+18. Putin,war,3.0, 471,1h 49m,471.0,109
+19. The Witch: Revenge,war,5.3, 716,1h 40m,716.0,100
+20. The Last Front,war,5.6, 575,1h 38m,575.0,98
+21. Dharmarakshak Mahaveer Chhatrapati Sambhaji Maharaj,war,8.0, 555,2h 54m,555.0,174
+22. Before Dawn,war,5.4, 897,1h 41m,897.0,101
+23. Chandu Champion,war,7.8, 33K,2h 22m,33000.0,142
+24. Decoded,war,5.8, 385,2h 36m,385.0,156
+25. Ka Whawhai Tonu,war,7.3, 162,1h 55m,162.0,115
+"26. Canadian, Sniper",war,3.5, 334,1h 23m,334.0,83
+27. Battlefield,war,6.2, 573,1h 44m,573.0,104
+28. The Friendly,war,8.4, 13,1h 41m,13.0,101
+29. Chhava,war,8.9, 1.3K,51m,1300.0,51
+30. Atatürk II: 1881-1919,war,9.0, 1.7K,2h 21m,1700.0,141
+31. Bau: Artist at War,war,7.4, 48,2h 10m,48.0,130
+32. The Shamrock Spitfire,war,5.2, 455,1h 48m,455.0,108
+33. Bozji gnjev,war,7.2, 53,1h 51m,53.0,111
+34. The Volunteers: The Battle of Life and Death,war,6.1, 192,2h 24m,192.0,144
+35. Kang Mak,war,6.4, 680,2h 2m,680.0,122
+36. Invasion,war,4.8, 642,1h 31m,642.0,91
+37. Orang Ikan,war,6.5, 28,1h 23m,28.0,83
+38. The Yin Yang Master Zero,war,5.7, 234,1h 52m,234.0,112
+39. Conquer: Lahad Datu,war,6.7, 477,2h,477.0,120
+40. WWII: Operation Phoenix,war,7.0, 55,1h 46m,55.0,106
+41. White Courage,war,6.3, 586,1h 55m,586.0,115
+42. 24 Hours to D-Day,war,5.0, 27,1h 23m,27.0,83
+43. War Blade,war,3.9, 247,1h 34m,247.0,94
+44. Air War,war,6.5, 109,1h 46m,109.0,106
+45. Fortunes of War,war,3.5, 171,1h 25m,171.0,85
+46. Bardejov,war,4.7, 164,1h 25m,164.0,85
+47. Ludzie,war,6.7, 17,1h 57m,17.0,117
+48. Russians at War,war,1.7, 993,2h 9m,993.0,129
+49. Call of Duty,war,8.2, 6,,6.0,0
+50. Klitschko: More Than a Fight,war,6.3, 479,1h 36m,479.0,96
+51. The Epidemic,war,5.9, 67,1h 35m,67.0,95
+"52. Dao, Pho Va Piano",war,5.9, 183,1h 40m,183.0,100
+53. Occupied,war,0.0,,1h 17m,0.0,77
+54. Hitler,war,5.2, 299,2h 8m,299.0,128
+55. Duffle Bag Boy,war,6.8, 55,,55.0,0
+56. Red Poppies,war,4.7, 287,2h 2m,287.0,122
+57. Burning Stars,war,6.5, 37,1h 24m,37.0,84
+58. The Liberation Men,war,6.6, 71,1h 30m,71.0,90
+59. Aserb: The Squadron,war,5.2, 287,2h,287.0,120
+60. We Were Recruits,war,7.0, 217,1h 32m,217.0,92
+61. Drava se ne predaje,war,8.3, 7,,7.0,0
+"62. Arlempdes, la légende du premier château de la Loire",war,6.5, 9,,9.0,0
+63. Burgemeestersmoord,war,6.5, 82,,82.0,0
+64. Hengyang 1944,war,8.3, 12,,12.0,0
+65. The West Sky,war,5.1, 117,,117.0,0
+66. Blood Vendetta,war,7.7, 233,1h 30m,233.0,90
+67. Scars,war,8.1, 20,,20.0,0
+68. October 7 - Al Jazeera Investigations,war,6.5, 35,1h,35.0,60
+69. Dun huang ying xiong,war,0.0,,,0.0,0
+"70. America, Invaded",war,7.6, 17,1h 22m,17.0,82
+71. Pidyomna syla,war,8.9, 57,1h 27m,57.0,87
+72. Majnoon,war,6.9, 34,,34.0,0
+73. The Battle for Kyiv,war,7.6, 33,,33.0,0
+74. The Youngest Partisan,war,0.0,,2h 15m,0.0,135
+75. Bloody Sniper,war,0.0,,1h 33m,0.0,93
+76. The Mousetrap,war,6.5, 8,,8.0,0
+77. Pozyvnoy «Passazhir»,war,4.8, 209,1h 41m,209.0,101
+78. Sha Hai zhi Men,war,0.0,,,0.0,0
+79. Haywire: Gunslingers,war,0.0,,,0.0,0
+80. Aldan,war,0.0,,,0.0,0
+81. The Dugout,war,5.5, 740,1h 54m,740.0,114
+82. Korni,war,8.3, 13,2h 17m,13.0,137
+83. On Moral Grounds,war,8.4, 7,1h 14m,7.0,74
+84. Stairway,war,0.0,,12m,0.0,12
+85. Operation Thule,war,0.0,,2h 40m,0.0,160
+86. Eddy's oorlog,war,7.7, 44,1h 41m,44.0,101
+87. The Daughter,war,0.0,,1h 37m,0.0,97
+88. Renverse,war,0.0,,2h 7m,0.0,127
+89. Here We Are Now,war,0.0,,1h 2m,0.0,62
+90. VC 571,war,0.0,,,0.0,0
+91. Ukraine Mon Amour,war,0.0,,,0.0,0
+92. Operation Star,war,7.6, 23,1h 42m,23.0,102
+93. Saigon,war,0.0,,,0.0,0
+"94. Por ti, Portugal, eu juro!",war,7.6, 5,1h 38m,5.0,98
+95. Vremya vernutsya,war,8.8, 7,1h 40m,7.0,100
+96. Churchill's Forgotten War,war,0.0,,47m,0.0,47
+97. Jewish Revenge 6: Gaza in Focus,war,5.4, 22,,22.0,0
+98. Roots,war,0.0,,1h 32m,0.0,92
+99. El laberinto. La guerra secreta de España,war,0.0,,2h 1m,0.0,121
+100. Village of Death: Oradour-sur-Glane 1944,war,7.9, 11,58m,11.0,58
+101. Mythical Creatures,war,0.0,,1h 30m,0.0,90
+102. Da Tu Wei,war,0.0,,1h 50m,0.0,110
+103. Kara Kyz,war,4.8, 18,1h 51m,18.0,111
+104. No Tomorrow,war,0.0,,,0.0,0
+105. Sem chyornykh bumag,war,6.6, 54,1h 36m,54.0,96
+106. The Deserter,war,0.0,,1h 33m,0.0,93
+107. The Dakota War: Attack on Fort Ridgely,war,0.0,,1h 20m,0.0,80
+108. Wo de Ye Ye,war,0.0,,,0.0,0
+109. Los indomables,war,6.5, 9,1h 46m,9.0,106
+110. Un milione di granelli di sabbia,war,0.0,,1h 4m,0.0,64
+111. The Lights,war,0.0,,,0.0,0
+112. Rinnans rival,war,0.0,,1h 34m,0.0,94
+"113. Gaza, since October 7",war,0.0,,1h 34m,0.0,94
+114. Fedeltà Soldati. Prigionieri.,war,0.0,,1h 20m,0.0,80
+115. As Noites Ainda Cheiram a Pólvora,war,0.0,,1h 32m,0.0,92
+116. 11.11.18 Soldat Inconnu,war,0.0,,1h 18m,0.0,78
+117. Attack Jiajin Mountain,war,0.0,,1h 36m,0.0,96
+118. Dosije Kosovo - Pogrom,war,7.6, 5,1h 49m,5.0,109
+119. Krasnye lenty,war,5.5, 16,1h 2m,16.0,62
+120. Athletes of War,war,0.0,,1h 35m,0.0,95
+121. Do You Want to See Part Two?,war,0.0,,1h 14m,0.0,74
+122. Krigsvarsleren,war,7.2, 6,55m,6.0,55
+123. Casques bleuEs,war,0.0,,1h 22m,0.0,82
+124. For the Love of the Motherland,war,0.0,,,0.0,0
+125. Kadetar,war,0.0,,1h 59m,0.0,119
+126. Colonel Xanthi,war,0.0,,,0.0,0
+127. Prazdnik,war,0.0,,1h 13m,0.0,73
+128. Twisted America,war,0.0,,49m,0.0,49

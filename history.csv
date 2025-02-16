@@ -1,0 +1,312 @@
+MovieName,Genre,Ratings,VotecountOrg,DurationOrg,Votecount,Duration
+1. I'm Still Here,history,8.8, 71K,2h 17m,71000.0,137
+2. Saturday Night,history,7.0, 25K,1h 49m,25000.0,109
+3. September 5,history,7.1, 9.4K,1h 35m,9400.0,95
+4. The Apprentice,history,7.1, 39K,2h 2m,39000.0,122
+5. Queer,history,6.5, 15K,2h 17m,15000.0,137
+6. The Girl with the Needle,history,7.5, 7.3K,2h 3m,7300.0,123
+7. The Count of Monte-Cristo,history,7.6, 29K,2h 58m,29000.0,178
+8. The Six Triple Eight,history,6.7, 22K,2h 7m,22000.0,127
+9. Small Things Like These,history,6.8, 18K,1h 38m,18000.0,98
+10. The Return,history,6.2, 6.5K,1h 56m,6500.0,116
+11. Blitz,history,6.2, 15K,2h,15000.0,120
+12. Joy,history,7.1, 8.3K,1h 55m,8300.0,115
+13. Reagan,history,6.2, 10K,2h 21m,10000.0,141
+14. The Children's Train,history,7.4, 6K,1h 46m,6000.0,106
+15. Unfrosted,history,5.5, 34K,1h 37m,34000.0,97
+16. Bonhoeffer: Pastor. Spy. Assassin.,history,6.3, 3K,2h 13m,3000.0,133
+17. Vermiglio,history,6.9, 2.9K,1h 59m,2900.0,119
+18. William Tell,history,6.3, 314,2h 13m,314.0,133
+19. Maharaj,history,6.5, 15K,2h 11m,15000.0,131
+20. Golden Kamuy,history,6.3, 2.4K,2h 7m,2400.0,127
+21. The Devil's Bath,history,6.6, 5.4K,2h 1m,5400.0,121
+22. Grand Tour,history,6.5, 1.2K,2h 8m,1200.0,128
+23. Uprising,history,6.6, 5K,2h 6m,5000.0,126
+24. Harbin,history,6.8, 357,1h 48m,357.0,108
+25. Escape from Germany,history,5.3, 787,1h 37m,787.0,97
+26. Thangalaan,history,6.6, 6.4K,2h 36m,6400.0,156
+27. The New Year That Never Came,history,8.3, 4.5K,2h 18m,4500.0,138
+28. The Flood,history,6.7, 144,1h 41m,144.0,101
+29. Kingdom 4: Return of the Great General,history,7.1, 1.1K,2h 25m,1100.0,145
+30. The Damned,history,5.3, 718,1h 29m,718.0,89
+31. Being Maria,history,6.1, 481,1h 40m,481.0,100
+32. Shirley,history,6.2, 3.2K,1h 57m,3200.0,117
+33. Goebbels and the Führer,history,6.7, 1.7K,2h 15m,1700.0,135
+34. Maidaan,history,7.9, 22K,3h 1m,22000.0,181
+35. Ahl Al Kahf,history,5.4, 181,2h,181.0,120
+36. Witches,history,7.4, 942,1h 30m,942.0,90
+37. Never Alone,history,7.1, 346,1h 25m,346.0,85
+38. Bibi Rajni,history,8.6, 698,2h 23m,698.0,143
+39. Limonov: The Ballad of Eddie,history,6.0, 619,2h 18m,619.0,138
+"40. Love, Courage and the Battle of Bushy Run",history,5.1, 152,1h 53m,152.0,113
+41. Razakar: The Silent Genocide of Hyderabad,history,7.4, 5.2K,2h 46m,5200.0,166
+42. Witch,history,5.1, 1.4K,1h 47m,1400.0,107
+43. Harvest,history,6.0, 299,2h 11m,299.0,131
+44. Quisling: The Final Days,history,7.1, 928,2h 26m,928.0,146
+45. Seize Them!,history,5.1, 1.1K,1h 31m,1100.0,91
+46. The Last Front,history,5.6, 575,1h 38m,575.0,98
+47. Waves,history,8.4, 1.1K,2h 11m,1100.0,131
+48. The Commandant's Shadow,history,7.3, 963,1h 43m,963.0,103
+49. Dharmarakshak Mahaveer Chhatrapati Sambhaji Maharaj,history,8.0, 555,2h 54m,555.0,174
+50. The Kingdom,history,8.0, 81,2h 13m,81.0,133
+51. In Her Place,history,6.2, 1.3K,1h 36m,1300.0,96
+52. The Ballad of Davy Crockett,history,4.6, 231,1h 36m,231.0,96
+53. Before Dawn,history,5.4, 897,1h 41m,897.0,101
+54. Chandu Champion,history,7.8, 33K,2h 22m,33000.0,142
+55. Ka Whawhai Tonu,history,7.3, 162,1h 55m,162.0,115
+56. Six Days in August,history,6.5, 107,2h,107.0,120
+57. No Chains No Masters,history,6.6, 406,1h 38m,406.0,98
+58. Intoxicated by Love,history,8.5, 11K,1h 58m,11000.0,118
+59. Battlefield,history,6.2, 573,1h 44m,573.0,104
+"60. From Hilde, with Love",history,7.2, 551,2h 5m,551.0,125
+61. Chhava,history,8.9, 1.3K,51m,1300.0,51
+62. Atatürk II: 1881-1919,history,9.0, 1.7K,2h 21m,1700.0,141
+63. Vindication Swim,history,6.1, 194,1h 38m,194.0,98
+64. Apollo 13: Survival,history,7.3, 2.2K,1h 38m,2200.0,98
+65. Gloria!,history,6.6, 930,1h 46m,930.0,106
+66. Jesus Crown of Thorns,history,6.1, 40,,40.0,0
+67. Something to Stand for with Mike Rowe,history,9.0, 259,1h 36m,259.0,96
+68. Einstein and the Bomb,history,6.2, 3.9K,1h 16m,3900.0,76
+69. The Volunteers: The Battle of Life and Death,history,6.1, 192,2h 24m,192.0,144
+70. Operation Undead,history,4.7, 308,1h 50m,308.0,110
+71. Bushido,history,6.9, 207,2h 9m,207.0,129
+72. Color of Victory,history,6.1, 40K,2h 37m,40000.0,157
+73. Hakkenden,history,5.9, 61,2h 29m,61.0,149
+74. The Great Ambition,history,7.3, 611,2h 3m,611.0,123
+75. Unsinkable,history,5.7, 135,1h 40m,135.0,100
+76. Now or Never!,history,2.0, 17K,,17000.0,0
+77. Greenwood Rising: The Rise of Black Wall Street,history,8.8, 47,,47.0,0
+78. Sadik Ahmet,history,7.7, 398,2h 5m,398.0,125
+79. 11 Rebels,history,7.1, 61,2h 35m,61.0,155
+80. Conquer: Lahad Datu,history,6.7, 477,2h,477.0,120
+81. ABBA: Against the Odds,history,7.4, 390,1h 30m,390.0,90
+82. V13,history,0.0,,,0.0,0
+83. Patrice: The Movie,history,8.3, 211,1h 42m,211.0,102
+84. Shivrayancha Chhava,history,6.8, 298,1h 20m,298.0,80
+85. Lula,history,5.6, 171,1h 30m,171.0,90
+86. Bahodir Yalangto'sh,history,9.1, 56,,56.0,0
+87. Apocalypse in the Tropics,history,7.5, 80,1h 50m,80.0,110
+88. Janis Ian: Breaking Silence,history,9.3, 22,1h 54m,22.0,114
+89. The Peanut Man,history,8.3, 18,,18.0,0
+90. Sucha Soorma,history,6.6, 898,2h 16m,898.0,136
+91. Lafran,history,8.2, 14,1h 39m,14.0,99
+92. House of Ga'a,history,3.9, 480,1h 59m,480.0,119
+93. Mustafa,history,6.9, 73,1h 15m,73.0,75
+94. Bardejov,history,4.7, 164,1h 25m,164.0,85
+95. Housewife of the Year,history,8.2, 30,1h 21m,30.0,81
+96. Silver Star,history,0.0,,1h 42m,0.0,102
+97. Sinhabahu,history,6.4, 83,1h 52m,83.0,112
+98. Public Defender,history,7.7, 16,,16.0,0
+99. Le choix du pianiste,history,5.8, 10,1h 46m,10.0,106
+100. Bir Cumhuriyet Sarkisi,history,7.7, 355,2h 8m,355.0,128
+101. Bach - Ein Weihnachtswunder,history,6.2, 159,1h 29m,159.0,89
+102. From Darkness to Light,history,7.4, 153,1h 48m,153.0,108
+103. Blood'less' Revolution,history,6.7, 256,1h 43m,256.0,103
+104. Memoir Seorang Guru,history,7.0, 115,2h,115.0,120
+105. Panjab Files,history,8.3, 13,1h 57m,13.0,117
+106. The Shadow,history,6.5, 207,1h 30m,207.0,90
+107. Warrior Awang and Master Tok Gajah,history,4.6, 467,1h 58m,467.0,118
+108. Mysteries of the Terracotta Warriors,history,6.7, 1.5K,1h 17m,1500.0,77
+109. Death Game,history,6.4, 22,1h 28m,22.0,88
+"110. Carville: Winning Is Everything, Stupid",history,7.3, 237,1h 38m,237.0,98
+111. Ray of Hope,history,7.0, 9,1h 45m,9.0,105
+112. Komandir,history,6.4, 505,2h 11m,505.0,131
+113. Accident or Conspiracy: Godhra,history,7.4, 769,2h 13m,769.0,133
+114. Gangs of Godavari,history,5.0, 885,2h 45m,885.0,165
+115. Chernyy zamok,history,7.8, 16,1h 55m,16.0,115
+116. Kupu-Kupu Kertas,history,7.0, 107,1h 53m,107.0,113
+117. Lisabi: The Uprising,history,6.4, 120,1h 47m,120.0,107
+118. Hope of Escape,history,7.5, 33,1h 31m,33.0,91
+119. Red Poppies,history,4.7, 287,2h 2m,287.0,122
+120. Simona Kossak,history,6.3, 153,1h 40m,153.0,100
+121. Obraz,history,7.5, 15,1h 35m,15.0,95
+122. Cinta Dari Timor,history,5.2, 20,1h 22m,20.0,82
+123. Ae Watan Mere Watan,history,4.7, 1.4K,2h 13m,1400.0,133
+124. Quo Vadis,history,6.6, 323,1h 30m,323.0,90
+125. Six Nine Five (695),history,7.0, 704,2h 17m,704.0,137
+126. Kasoombo,history,8.2, 632,2h 36m,632.0,156
+"127. Zeme, kas dzied",history,6.4, 73,2h 30m,73.0,150
+128. Solos en la noche,history,6.5, 50,1h 28m,50.0,88
+129. Wieland,history,5.7, 16,,16.0,0
+130. Yatra 2,history,6.3, 9.7K,2h 12m,9700.0,132
+131. The Impact: Groundbreaking Documentary,history,8.3, 55,,55.0,0
+132. Jorge da Capadócia,history,6.4, 120,1h 59m,120.0,119
+133. Drava se ne predaje,history,8.3, 7,,7.0,0
+"134. Arlempdes, la légende du premier château de la Loire",history,6.5, 9,,9.0,0
+135. The Embers,history,6.7, 97,2h 42m,97.0,162
+136. Bad Case of the Country Blues: The Linda Martell Story,history,0.0,,1h 29m,0.0,89
+137. All or Nothin',history,8.0, 31,1h 35m,31.0,95
+138. A Country Called Ghana,history,0.0,,,0.0,0
+139. Chhatrapati Tararani,history,9.3, 16,,16.0,0
+140. Burgemeestersmoord,history,6.5, 82,,82.0,0
+141. Dogman Territory: Werewolves in the Land Between the Lakes,history,5.3, 28,,28.0,0
+142. Manyunya. Priklyucheniya v derevne,history,7.4, 58,1h 28m,58.0,88
+143. Gadera,history,5.1, 47,1h 48m,47.0,108
+144. Ennio Doris - C'è anche domani,history,5.2, 80,1h 30m,80.0,90
+145. Cândido,history,6.3, 54,1h 39m,54.0,99
+146. Pol Pot Dancing,history,7.1, 14,1h 42m,14.0,102
+147. Tears of Blood,history,9.7, 6,,6.0,0
+148. You Are Always Right Here,history,0.0,,,0.0,0
+149. The Fall of 2008,history,0.0,,1h 1m,0.0,61
+150. Landesverräter,history,6.1, 47,1h 52m,47.0,112
+151. Taghiev: Oil,history,9.1, 43,2h,43.0,120
+152. Aliens Return,history,0.0,,,0.0,0
+153. Yakamoz,history,6.5, 16,1h 36m,16.0,96
+154. Pirates & Slaves,history,0.0,,53m,0.0,53
+155. Boat,history,5.5, 1K,2h 6m,1000.0,126
+156. Bloodspawn,history,6.6, 6,1h 16m,6.0,76
+157. Manyunya. Priklyucheniya v Moskve,history,7.4, 103,1h 27m,103.0,87
+158. North Korea: Dark Secrets,history,5.8, 78,1h 19m,78.0,79
+159. Aquarius,history,7.7, 10,1h 15m,10.0,75
+160. The Knowing,history,0.0,,1h 28m,0.0,88
+161. America's Woman,history,0.0,,1h 13m,0.0,73
+162. Madame Durocher,history,6.8, 19,,19.0,0
+163. Tholos vythos,history,6.3, 14,1h 30m,14.0,90
+164. Holdin' Weight: The Darryl Reed Story,history,0.0,,,0.0,0
+165. Ett hjärta är alltid rött,history,7.1, 381,1h 43m,381.0,103
+166. Guadalupe: Mother of Humanity,history,7.2, 38,1h 42m,38.0,102
+"167. True Chronicles of the Blida Joinville Psychiatric Hospital in the Last Century, when Dr Frantz Fanon Was Head of the Fifth Ward between 1953 and 1956",history,7.1, 27,1h 30m,27.0,90
+168. Nebesko,history,5.1, 9,1h 13m,9.0,73
+169. The Birth of Korea,history,5.1, 126,1h 41m,126.0,101
+170. Powstaniec 1863,history,5.4, 130,1h 55m,130.0,115
+171. Paul Anka: His Way,history,6.6, 8,1h 40m,8.0,100
+172. Zhi Ci Qing Lv,history,7.0, 46,1h 29m,46.0,89
+173. 3 Frauen 1 Streik,history,6.6, 21,,21.0,0
+174. Malês,history,0.0,,,0.0,0
+175. Ainda Somos os Mesmos,history,5.8, 41,1h 30m,41.0,90
+176. Burkitt,history,0.0,,1h 13m,0.0,73
+177. Who Killed Lawrence of Arabia?,history,6.5, 32,1h 40m,32.0,100
+178. Legend of the Lizard,history,0.0,,,0.0,0
+179. L'orizzonte chiuso,history,8.0, 5,,5.0,0
+180. Hancsovszky,history,8.2, 20,,20.0,0
+181. Ecce Homo Brâncoveanu,history,7.0, 164,1h 32m,164.0,92
+182. The Colonizer,history,0.0,,1h 17m,0.0,77
+183. Aldan,history,0.0,,,0.0,0
+184. Jíkuri,history,0.0,,,0.0,0
+185. Lulu in Turin,history,8.2, 5,1h 16m,5.0,76
+186. Ugly Bird,history,0.0,,,0.0,0
+187. On Moral Grounds,history,8.4, 7,1h 14m,7.0,74
+188. The Legacy of Mahaveer,history,7.1, 66,,66.0,0
+189. Synthwave Horror: Night of the Living Dead,history,0.0,,,0.0,0
+190. The Happiest Place on Earth,history,7.1, 12,,12.0,0
+191. Sragaal,history,8.4, 19,2h 20m,19.0,140
+192. Stairway,history,0.0,,12m,0.0,12
+193. Myall Creek Day of Justice,history,6.7, 16,1h 18m,16.0,78
+194. And the Balls Roll On...: The Real Story of the Beautiful Game of Skee-Ball,history,0.0,,1h 33m,0.0,93
+195. Manuscripts,history,0.0,,54m,0.0,54
+196. Tayna Chyornoy Ruki,history,5.7, 21,1h 24m,21.0,84
+197. Onihei Hankacho: Ketto,history,6.2, 13,,13.0,0
+198. Azerbaijan Atabeyler,history,0.0,,1h 40m,0.0,100
+199. Operation Star,history,7.6, 23,1h 42m,23.0,102
+200. Titanus 1904,history,0.0,,1h 15m,0.0,75
+201. Saigon,history,0.0,,,0.0,0
+202. The Hegartys of the Laurels,history,0.0,,,0.0,0
+203. I am Al Ittihad,history,4.8, 223,1h 30m,223.0,90
+204. Drama 1882,history,9.0, 15,45m,15.0,45
+205. Aliens Uncovered: The Land of Legends,history,8.9, 9,,9.0,0
+206. Al Kafi,history,0.0,,1h 50m,0.0,110
+207. Stampila,history,7.6, 8,,8.0,0
+208. Theodor,history,0.0,,2h,0.0,120
+209. Song of the Last Lacandon Holy Man,history,0.0,,1h 7m,0.0,67
+210. Sisam,history,6.7, 10,,10.0,0
+211. Wilhelm Gustloff,history,8.7, 8,1h 50m,8.0,110
+212. Vremya vernutsya,history,8.8, 7,1h 40m,7.0,100
+213. Churchill's Forgotten War,history,0.0,,47m,0.0,47
+214. Colors of the Sun,history,0.0,,,0.0,0
+"215. ...Mayombe, Paula?",history,0.0,,,0.0,0
+216. Village of Death: Oradour-sur-Glane 1944,history,7.9, 11,58m,11.0,58
+217. Last Flamingo of the Red Summer Sunset,history,8.8, 13,1h 20m,13.0,80
+218. Pismo,history,0.0,,1h 11m,0.0,71
+219. Meet the Roman Emperor with Mary Beard,history,7.7, 39,59m,39.0,59
+220. Mythical Creatures,history,0.0,,1h 30m,0.0,90
+"221. Ritter, Burgen, Edelfrauen - Liebessagen aus dem Mittelalter",history,0.0,,,0.0,0
+222. The Queen of Akra,history,0.0,,,0.0,0
+223. Márton Áron Erdély püspöke,history,0.0,,1h 30m,0.0,90
+224. Giuseppe Taliercio: Il delitto perduto,history,0.0,,,0.0,0
+225. La nostra magnifica ossessione - Bernardo Bertolucci e la sua generazione,history,0.0,,1h 30m,0.0,90
+"226. Colón ADN, su verdadero origen",history,6.2, 49,1h 46m,49.0,106
+227. Clergyman,history,0.0,,1h 54m,0.0,114
+228. Ek Chilte Jol,history,9.3, 11,1h 59m,11.0,119
+229. Um Tempo de Todos,history,0.0,,2h 12m,0.0,132
+230. Isobel,history,0.0,,,0.0,0
+231. A Cowardly Rout: The Bull Run Account of William Howard Russell,history,0.0,,18m,0.0,18
+232. C'era una volta il Derby Club,history,7.4, 15,1h 30m,15.0,90
+233. Los indomables,history,6.5, 9,1h 46m,9.0,106
+"234. Otger Cataló, La llegenda",history,0.0,,,0.0,0
+235. The Lost Colony,history,0.0,,,0.0,0
+236. Piri Reis: The Incredible Chart,history,6.6, 20,2h 18m,20.0,138
+237. Iron Bar,history,0.0,,1h 57m,0.0,117
+238. Andrew Trimble: For Ulster & Ireland,history,0.0,,,0.0,0
+239. Tatai Patara 1597,history,0.0,,1h 10m,0.0,70
+240. Drachten Journaals,history,0.0,,51m,0.0,51
+241. Witness to Revolution: One Doctor's Story of the Xinhai Revolution,history,0.0,,57m,0.0,57
+242. À Mesa da Unidade Popular,history,0.0,,1h 25m,0.0,85
+243. Oda: Vlucht door de Eeuwen,history,6.4, 7,,7.0,0
+244. Rinnans rival,history,0.0,,1h 34m,0.0,94
+245. Tesouro Natterer,history,0.0,,1h 24m,0.0,84
+246. Frederick Douglass - My Path to Freedom,history,0.0,,1h 30m,0.0,90
+247. Nerah Documaentary Film,history,0.0,,,0.0,0
+"248. Gaza, since October 7",history,0.0,,1h 34m,0.0,94
+249. Christian Growth Through Hymns,history,0.0,,50m,0.0,50
+250. Fedeltà Soldati. Prigionieri.,history,0.0,,1h 20m,0.0,80
+251. Queen Elizabeth II: Before the Crown,history,0.0,,45m,0.0,45
+252. Maverick from the edge,history,0.0,,1h 47m,0.0,107
+253. Vernye,history,0.0,,1h 10m,0.0,70
+254. Fast Track: Taking on the Speedway,history,9.4, 8,35m,8.0,35
+"255. Le Temple d'Hatchepsout, Reine d'Egypte",history,0.0,,,0.0,0
+256. Sathur: Part1,history,0.0,,,0.0,0
+257. Detor: The Rise of A Warrior Hunter,history,0.0,,,0.0,0
+258. Ukku Satyagraham,history,0.0,,2h 19m,0.0,139
+259. Aliens Uncovered: The Thunder God,history,8.5, 8,,8.0,0
+260. Die Mutigen 56 - Deutschlands längster Streik,history,6.7, 9,1h 30m,9.0,90
+261. Ajiniyaz,history,0.0,,,0.0,0
+262. The Storm,history,0.0,,2h 45m,0.0,165
+263. Toque de Queda,history,0.0,,2h,0.0,120
+264. Aiyefele,history,0.0,,,0.0,0
+265. Dad's Secret War: France 1944,history,0.0,,58m,0.0,58
+266. Running Towards the Fire - A War Correspondent's Story,history,0.0,,56m,0.0,56
+267. On the Wing,history,0.0,,1h 26m,0.0,86
+268. El Genocidio Silencioso,history,0.0,,1h 22m,0.0,82
+"269. Napoléon, Albine, Betsy et les autres",history,0.0,,,0.0,0
+270. Gateway District - Project Algerine,history,0.0,,,0.0,0
+271. Ghost Camera,history,0.0,,1h 41m,0.0,101
+272. Descartes in Egmond,history,0.0,,1h 12m,0.0,72
+273. La tv nel pozzo,history,0.0,,,0.0,0
+274. Nancy & Bill: The Story Before Oliver Twist,history,0.0,,,0.0,0
+"275. Renato Schlatter, l'ange déchu du football suisse",history,0.0,,1h 30m,0.0,90
+276. Triumf,history,6.7, 8,1h 53m,8.0,113
+277. Kabarettistinnen in der Weimarer Republik und im Dritten Reich,history,0.0,,1h 30m,0.0,90
+278. Xun zhao tang de zhang,history,7.8, 16,1h 33m,16.0,93
+279. Krigsvarsleren,history,7.2, 6,55m,6.0,55
+280. Magic & Monsters,history,0.0,,,0.0,0
+281. Area 2,history,0.0,,,0.0,0
+282. O Último Papagaio de Timneh,history,0.0,,49m,0.0,49
+283. Rising Tennis Star Meloni Jones,history,0.0,,,0.0,0
+284. The Way of Internal Strength,history,0.0,,45m,0.0,45
+285. International Resonance of the April Uprising,history,0.0,,51m,0.0,51
+"286. Twin Falls, 2001-2024",history,0.0,,3h,0.0,180
+287. Zle smierci,history,0.0,,,0.0,0
+288. Vola Colomba - Trieste 1954,history,0.0,,52m,0.0,52
+289. Sivestan,history,0.0,,,0.0,0
+290. Testimoni del tempo,history,0.0,,,0.0,0
+291. The Coastal Map of Britain,history,0.0,,1h,0.0,60
+292. Freedom Shred: A Juneteenth Declaration,history,0.0,,55m,0.0,55
+293. Colonel Xanthi,history,0.0,,,0.0,0
+294. Testimoni del tempo,history,0.0,,,0.0,0
+295. 2053 - A Best Case Scenario,history,0.0,,58m,0.0,58
+"296. Georges Pompidou, la cruauté du pouvoir",history,6.2, 6,1h 44m,6.0,104
+297. Douglas Stories,history,0.0,,,0.0,0
+298. Castles in Haiti,history,0.0,,,0.0,0
+299. Un paese ci vuole,history,0.0,,,0.0,0
+300. Destiny or Will. Marusia,history,8.9, 16,,16.0,0
+301. On Air,history,0.0,,,0.0,0
+302. Illuminate - Monica Vitti - La Donna che visse due volte,history,0.0,,45m,0.0,45
+303. Svjedoci pravde - Ratni zlocini u Bosanskom Novom,history,0.0,,,0.0,0
+304. The Canal Map of Britain,history,6.8, 10,59m,10.0,59
+305. Ensamble Patagonia,history,0.0,,,0.0,0
+306. ¿De qué casa eres?,history,0.0,,1h 12m,0.0,72
+307. The Word,history,0.0,,45m,0.0,45
+308. Istanbul: Isgal ve Zafer,history,0.0,,54m,0.0,54
+309. The Man Outside,history,7.4, 10,1h 10m,10.0,70
+310. Okufere,history,0.0,,1h 31m,0.0,91
+311. Marcho. L'ultima Bandiera,history,0.0,,1h 15m,0.0,75

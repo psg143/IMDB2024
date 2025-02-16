@@ -1,0 +1,246 @@
+MovieName,Genre,Ratings,VotecountOrg,DurationOrg,Votecount,Duration
+1. Challengers,sport,7.1, 145K,2h 11m,145000.0,131
+2. Unstoppable,sport,6.8, 3.3K,1h 56m,3300.0,116
+3. Queen of the Ring,sport,7.4, 139,2h 10m,139.0,130
+4. You Gotta Believe,sport,5.7, 1.1K,1h 44m,1100.0,104
+5. The Fire Inside,sport,6.8, 1.8K,1h 49m,1800.0,109
+6. Young Woman and the Sea,sport,7.5, 16K,2h 9m,16000.0,129
+7. Under Paris,sport,5.2, 35K,1h 44m,35000.0,104
+8. Arthur the King,sport,7.0, 33K,1h 47m,33000.0,107
+9. Sweet Dreams,sport,5.4, 1.4K,1h 35m,1400.0,95
+10. El Jockey,sport,6.4, 1.4K,1h 36m,1400.0,96
+11. Rez Ball,sport,6.3, 2.3K,1h 51m,2300.0,111
+12. Uranus 2324,sport,6.6, 4.6K,2h 10m,4600.0,130
+13. The Underdoggs,sport,5.6, 4.5K,1h 36m,4500.0,96
+14. The Beautiful Game,sport,6.3, 7.9K,2h 5m,7900.0,125
+15. Maidaan,sport,7.9, 22K,3h 1m,22000.0,181
+16. Race for Glory: Audi vs. Lancia,sport,5.8, 4.5K,1h 49m,4500.0,109
+17. Sixty Minutes,sport,5.7, 5K,1h 28m,5000.0,88
+18. Yolo,sport,6.9, 3.5K,2h 9m,3500.0,129
+19. Chandu Champion,sport,7.8, 33K,2h 22m,33000.0,142
+20. Boxer,sport,6.4, 1.2K,2h 30m,1200.0,150
+21. My Sunshine,sport,7.1, 885,1h 40m,885.0,100
+22. Lubber Pandhu,sport,8.2, 5.6K,2h 26m,5600.0,146
+23. Samia,sport,6.9, 107,1h 42m,107.0,102
+24. Balestra,sport,5.1, 493,2h 25m,493.0,145
+25. Baki Hanma VS Kengan Ashura,sport,5.7, 1.8K,1h 2m,1800.0,62
+26. Haikyu!! The Dumpster Battle,sport,7.8, 5.5K,1h 25m,5500.0,85
+27. Little Wing,sport,6.1, 906,1h 40m,906.0,100
+28. Vijay 69,sport,6.1, 1.1K,1h 52m,1100.0,112
+29. Blue Lock: Episode Nagi,sport,6.6, 2.3K,1h 31m,2300.0,91
+30. Ski - The Greatest Ski Tour of All Time,sport,7.7, 39,1h 35m,39.0,95
+31. Gundi: Legend of Love,sport,9.1, 5.2K,2h 46m,5200.0,166
+32. Bionic,sport,4.3, 1.7K,1h 50m,1700.0,110
+33. Federer: Twelve Final Days,sport,7.3, 4K,1h 28m,4000.0,88
+34. Minor Leaguer,sport,5.2, 74,1h 17m,74.0,77
+35. Giannis: The Marvelous Journey,sport,8.3, 1.7K,1h 49m,1700.0,109
+36. Color of Victory,sport,6.1, 40K,2h 37m,40000.0,157
+37. Untold: The Murder of Air McNair,sport,5.6, 1.9K,57m,1900.0,57
+38. Mr. & Mrs. Mahi,sport,5.9, 16K,2h 19m,16000.0,139
+39. Diving Into the Darkness,sport,9.1, 74,1h 36m,74.0,96
+40. Crakk: Jeetega... Toh Jiyegaa,sport,4.7, 6.4K,2h 34m,6400.0,154
+41. The Champion,sport,5.5, 848,1h 46m,848.0,106
+42. Pay Dirt: The Story of Supercross,sport,0.0,,1h 31m,0.0,91
+43. Havnaa,sport,7.2, 207,1h 50m,207.0,110
+44. The Miranda Brothers,sport,4.3, 172,1h 39m,172.0,99
+45. Free Falling,sport,5.2, 277,1h 29m,277.0,89
+46. The Swedish Torpedo,sport,6.5, 121,2h,121.0,120
+47. Pegasus 2,sport,7.0, 1.2K,2h 1m,1200.0,121
+48. El Harifa 2: El Remontada,sport,7.3, 207,2h 10m,207.0,130
+49. Keluar Main 1994,sport,7.8, 44,1h 52m,44.0,112
+50. The Final: Attack on Wembley,sport,6.3, 2.4K,1h 22m,2400.0,82
+51. Kulej. Dwie strony medalu,sport,6.4, 266,2h 28m,266.0,148
+52. Uma Musume: Pretty Derby - Beginning of a New Era,sport,8.3, 97,1h 48m,97.0,108
+53. Topuria Matador,sport,7.2, 152,1h 35m,152.0,95
+54. Friendly Fire,sport,7.4, 23,1h 45m,23.0,105
+55. It's All Over: The Kiss That Changed Spanish Football,sport,6.9, 582,1h 35m,582.0,95
+56. Cup,sport,8.5, 63,2h 26m,63.0,146
+57. Megdan: Between Water and Fire,sport,5.4, 693,1h 46m,693.0,106
+58. GG,sport,6.0, 75,1h 40m,75.0,100
+59. Fight Like a Girl,sport,7.8, 12,,12.0,0
+60. Concussed: The American Dream,sport,7.8, 35,,35.0,0
+61. Off the Line,sport,9.0, 11,,11.0,0
+62. Las super estrellas de la lucha libre,sport,8.6, 45,1h 38m,45.0,98
+63. Sunshine,sport,8.0, 24,1h 31m,24.0,91
+64. Tracing the Divide,sport,9.1, 105,1h 24m,105.0,84
+65. A Horse Named Winx,sport,8.7, 92,1h 57m,92.0,117
+66. Chong · Zhuang,sport,7.2, 16,,16.0,0
+67. Wingless,sport,7.5, 77,1h 50m,77.0,110
+68. My Annoying Brother,sport,8.3, 62,1h 54m,62.0,114
+69. Lal Salaam,sport,4.5, 1.3K,2h 30m,1300.0,150
+70. EFC,sport,7.8, 1.2K,1h 27m,1200.0,87
+71. Undisputed,sport,6.9, 97,1h 4m,97.0,64
+72. El Hareefa,sport,6.9, 926,1h 57m,926.0,117
+73. Pierce,sport,6.5, 109,1h 49m,109.0,109
+74. Grace by Night,sport,6.9, 21,,21.0,0
+75. Memes & Nightmares,sport,0.0,,1h 21m,0.0,81
+76. Fuchsia Libre,sport,4.9, 56,1h 52m,56.0,112
+77. Gold,sport,7.9, 61,2h 6m,61.0,126
+78. Champions of the Golden Valley,sport,9.4, 52,1h 21m,52.0,81
+79. Argentina '78,sport,7.0, 187,,187.0,0
+80. The Unbreakable Tatiana Suarez,sport,6.6, 167,1h 18m,167.0,78
+81. The Tale of Texas Pool,sport,9.4, 40,,40.0,0
+82. Game Changers,sport,4.7, 202,1h 18m,202.0,78
+83. V de Victor,sport,5.1, 71,1h 40m,71.0,100
+84. Fedya. Narodnyy futbolist,sport,5.9, 108,2h 5m,108.0,125
+85. In Inima Nationalei,sport,7.8, 196,1h 43m,196.0,103
+86. Harimau Malaya: The Untold Journey,sport,8.1, 19,2h 5m,19.0,125
+87. Hayatla Baris,sport,6.3, 344,2h 5m,344.0,125
+88. Nayab,sport,7.5, 257,2h 33m,257.0,153
+89. Lyod 3,sport,6.0, 286,2h 14m,286.0,134
+90. Inazuma Eleven Movie: The Legendary Kickoff,sport,0.0,,,0.0,0
+91. Padu,sport,5.1, 77,1h 37m,77.0,97
+92. Passion of Iron,sport,9.7, 13,,13.0,0
+93. Clash of Dynasties: St. Edward vs Walsh Jesuit,sport,0.0,,,0.0,0
+94. DitO,sport,0.0,,1h 57m,0.0,117
+95. First Class: Full Speed!,sport,7.5, 327,,327.0,0
+96. Together: 4-in-a-Row,sport,6.3, 47,1h 32m,47.0,92
+97. The Next Centimeter,sport,7.4, 33,26m,33.0,26
+98. Dolly: Story of a Warrior,sport,0.0,,,0.0,0
+99. The Streak,sport,0.0,,1h 27m,0.0,87
+100. Faster: Only one lap,sport,7.8, 21,1h 30m,21.0,90
+101. Blue Star,sport,6.9, 1.5K,2h 46m,1500.0,166
+102. Daley,sport,7.8, 178,1h 42m,178.0,102
+103. Quest for the Shield,sport,10, 9,1h 52m,9.0,112
+104. Parviz Khan,sport,5.9, 187,1h 50m,187.0,110
+105. Final Heat,sport,3.8, 212,1h 23m,212.0,83
+106. Loser is Winner,sport,9.3, 530,,530.0,0
+107. The Incredibles,sport,9.3, 113,,113.0,0
+108. Patang,sport,0.0,,,0.0,0
+109. For the Love of Basketball,sport,0.0,,,0.0,0
+110. Basketball Jones: The First Chapter,sport,0.0,,,0.0,0
+"111. Hai, Romania!",sport,8.1, 407,1h 38m,407.0,98
+112. Salty Amazons,sport,0.0,,32m,0.0,32
+113. No Means No,sport,7.7, 8,,8.0,0
+114. Numéro 10,sport,5.3, 50,1h 31m,50.0,91
+115. See Her Be Her,sport,0.0,,1h 50m,0.0,110
+116. Runaway Wrestler,sport,7.8, 14,1h 45m,14.0,105
+117. Anytime,sport,9.1, 17,1h 2m,17.0,62
+118. Puffing Iron,sport,8.0, 17,1h 38m,17.0,98
+119. Home Plate,sport,0.0,,1h 25m,0.0,85
+120. The Netflix Slam,sport,7.1, 138,2h 30m,138.0,150
+121. Gabru Gang,sport,8.8, 214,2h 3m,214.0,123
+122. Knockout Blonde: The Kellie Maloney Story,sport,5.9, 20,1h 30m,20.0,90
+123. Deathgrip 2,sport,0.0,,59m,0.0,59
+124. Inazuma Eleven the Movie: Prologue to the New Heroes,sport,0.0,,,0.0,0
+125. A Game of Two Halves,sport,7.3, 24,1h 40m,24.0,100
+126. Dare to Dream,sport,0.0,,1h 54m,0.0,114
+127. Linford,sport,7.3, 146,1h 29m,146.0,89
+128. Dabaru,sport,9.0, 648,2h 11m,648.0,131
+129. Nos Amours: The Saga of the Montreal Expos,sport,6.2, 22,1h 32m,22.0,92
+130. La valanga azzurra,sport,7.6, 7,1h 30m,7.0,90
+131. The Spoils: Selling the Future of American Basketball,sport,0.0,,1h 27m,0.0,87
+132. Hatching Eagles,sport,6.8, 22,1h 3m,22.0,63
+"133. Rylan: Homophobia, Football & Me",sport,5.4, 21,,21.0,0
+134. Trailblazers,sport,7.2, 16,38m,16.0,38
+135. Ping pang nan hai,sport,7.3, 16,,16.0,0
+136. Rhythm Masters: A Mickey Hart Experience,sport,7.6, 21,,21.0,0
+137. Twitch,sport,0.0,,,0.0,0
+138. Battle of the Baddest,sport,6.1, 92,1h 1m,92.0,61
+139. I am Al Ittihad,sport,4.8, 223,1h 30m,223.0,90
+140. Graciano Rocchigiani - Das Herz eines Boxers,sport,9.2, 50,2h 3m,50.0,123
+141. V potoke trekh stikhiy,sport,7.4, 15,1h 25m,15.0,85
+142. UFC 299: O'Malley vs. Vera 2,sport,7.4, 80,3h,80.0,180
+143. Grudge,sport,0.0,,1h 44m,0.0,104
+144. EL DESAFÍO IMPOSIBLE: LA CUMBRE DE LOS 7000 METROS,sport,0.0,,,0.0,0
+145. Secrets of Women's Mat Wrestling,sport,0.0,,1h,0.0,60
+146. UFC 302: Makhachev vs. Poirier,sport,6.7, 87,3h,87.0,180
+147. Phantom of the Ice,sport,9.1, 471,,471.0,0
+148. 87 Candles,sport,8.9, 9,55m,9.0,55
+149. Rafa Márquez: El Capitán,sport,6.6, 190,1h 22m,190.0,82
+150. Ice Cross: Life on the Edge,sport,0.0,,1h 30m,0.0,90
+151. Below the Rim,sport,0.0,,1h 29m,0.0,89
+152. Vincenzo Nibali - Il 7° campione,sport,0.0,,52m,0.0,52
+153. Eclipse,sport,9.5, 81,1h 19m,81.0,79
+154. Welcome to the J-Rod Show,sport,0.0,,44m,0.0,44
+155. Being 500 A Professional Wrestling Documentary,sport,0.0,,,0.0,0
+156. Golpe a Golpe (Blow by Blow),sport,8.3, 22,1h 30m,22.0,90
+157. Roman Kostomarov. Rozhdennyy dvazhdy,sport,0.0,,1h 17m,0.0,77
+158. UFC 303: Pereira vs. Prochazka 2,sport,6.4, 67,3h 15m,67.0,195
+159. Take the Steps,sport,8.3, 74,1h 23m,74.0,83
+160. I Am Kevin Harvick,sport,9.0, 15,,15.0,0
+161. Kick Start,sport,0.0,,,0.0,0
+162. ¡Qué suerte hemos tenido!,sport,7.5, 15,1h 2m,15.0,62
+163. Za predelami. Semdesyat pervyy,sport,0.0,,1h 14m,0.0,74
+164. I am the girl 2 and my black belt,sport,0.0,,2h 2m,0.0,122
+165. UFC 297: Strickland vs. du Plessis,sport,6.4, 62,3h,62.0,180
+166. The Path Full of Stars,sport,0.0,,1h,0.0,60
+167. Za predelami. Nad vodoy,sport,0.0,,1h 7m,0.0,67
+168. Il tempo è ancora nostro,sport,0.0,,,0.0,0
+"169. Surf on, Europe!",sport,8.0, 21,1h 32m,21.0,92
+170. Fencing for the Edge,sport,0.0,,1h 15m,0.0,75
+171. Go! Snails,sport,0.0,,1h 30m,0.0,90
+172. Drachten Journaals,sport,0.0,,51m,0.0,51
+173. Episodes: Ukraine at the World Cup (2024),sport,8.3, 63,1h 19m,63.0,79
+174. Altitude FC: Rising Together,sport,0.0,,,0.0,0
+"175. Traineras, pasión por el remo",sport,6.0, 5,,5.0,0
+176. Quote 10.35,sport,8.0, 22,35m,22.0,35
+177. UNDERDROGS: a League of Ireland Story,sport,0.0,,30m,0.0,30
+178. Giroud,sport,7.2, 8,,8.0,0
+179. 1600 Meter,sport,0.0,,1h 46m,0.0,106
+180. Domain 1 - Antarctica,sport,0.0,,1h 14m,0.0,74
+181. The Road to OVC Champions,sport,0.0,,,0.0,0
+182. Peleamos,sport,8.7, 26,,26.0,0
+183. Beyond the Podium: Celebrating Canadian Women Champions,sport,0.0,,,0.0,0
+184. Hard 90 to Home,sport,0.0,,46m,0.0,46
+185. Wölfinnen - Die Jagd nach dem Triple,sport,0.0,,1h 33m,0.0,93
+"186. Prost itinéraire, d'une légende",sport,0.0,,,0.0,0
+187. Wave Warriors IV,sport,0.0,,,0.0,0
+188. Beta Squad vs AMP Charity Match 2024,sport,0.0,,3h 30m,0.0,210
+189. Ice Fishing Hardcore: On the Road,sport,0.0,,,0.0,0
+190. Fútbol desde el corazón,sport,0.0,,1h 30m,0.0,90
+191. A Piece of Home,sport,0.0,,,0.0,0
+192. UFC 304: Edwards vs. Muhammad 2,sport,5.9, 68,3h 20m,68.0,200
+193. Senza volto - Storia di Fabrizio Maiello,sport,0.0,,1h 39m,0.0,99
+194. Not Just A Shot: A Disc Golf Story,sport,0.0,,59m,0.0,59
+195. O Fenômeno eSports,sport,0.0,,,0.0,0
+196. More Than a Whistle,sport,0.0,,,0.0,0
+197. Invicta FC 59: Bernardo vs. Maia,sport,0.0,,,0.0,0
+198. 9 Hao Chuan Qi,sport,0.0,,,0.0,0
+199. Veljko od mora,sport,7.2, 16,53m,16.0,53
+200. Paulsbyen: Verdensmester,sport,0.0,,,0.0,0
+201. Choices & Decisions,sport,0.0,,1h 14m,0.0,74
+202. 11 Brothers: The Movie,sport,0.0,,,0.0,0
+203. Athletes of War,sport,0.0,,1h 35m,0.0,95
+204. Cold Brew,sport,0.0,,22m,0.0,22
+205. Triumf,sport,6.7, 8,1h 53m,8.0,113
+206. Phoenix: A Purdue Basketball Story,sport,0.0,,1h 22m,0.0,82
+207. Fotbollsåret 2023,sport,0.0,,,0.0,0
+208. Za predelami. Ostavit sled,sport,0.0,,1h 20m,0.0,80
+209. Zlatan Ibrahimovic hyllningsmatch (Sweden vs Serbia),sport,6.6, 6,2h 50m,6.0,170
+210. Volare più in alto,sport,0.0,,51m,0.0,51
+211. Chava. El ciclista del pueblo,sport,6.5, 12,,12.0,0
+212. Sportzal,sport,0.0,,1h 5m,0.0,65
+213. Gyakorlat teszi a mestert,sport,6.1, 15,46m,15.0,46
+214. Champions in May,sport,0.0,,2h 7m,0.0,127
+215. Obseassion,sport,0.0,,32m,0.0,32
+216. The IV Crown Showdown Final Press Conference,sport,0.0,,1h 54m,0.0,114
+217. Rising Tennis Star Meloni Jones,sport,0.0,,,0.0,0
+218. Nine: The Big Break,sport,0.0,,,0.0,0
+219. Sculpting and Flowing with Marikah,sport,0.0,,,0.0,0
+220. Mais Fortes,sport,0.0,,54m,0.0,54
+221. Za predelami. Snezhnye psy,sport,0.0,,1h 12m,0.0,72
+222. Khapsyhyy,sport,0.0,,1h 30m,0.0,90
+223. Leuchtend Schwarz - Sturm und der Weg zum Double,sport,0.0,,,0.0,0
+224. El Chilote: Gloria del Béisbol Dominicano,sport,0.0,,1h 15m,0.0,75
+225. Gaffer,sport,0.0,,,0.0,0
+226. Is University Really Worth It?,sport,5.1, 11,1h,11.0,60
+227. Surfin Estate,sport,0.0,,,0.0,0
+228. 8 secondes,sport,0.0,,1h 29m,0.0,89
+229. Not That NB,sport,0.0,,,0.0,0
+230. Me to stahy sti fanela,sport,0.0,,48m,0.0,48
+231. Sport Gives Back Awards 2024,sport,0.0,,1h 10m,0.0,70
+232. TAÏ: 33 jours dans la dernière forêt d'Afrique de l'Ouest,sport,0.0,,,0.0,0
+233. Freedom Shred: A Juneteenth Declaration,sport,0.0,,55m,0.0,55
+234. Atlético Marbella. Aquel Fútbol de los 90,sport,0.0,,,0.0,0
+235. Ocoee Rafting Trip Pilot,sport,0.0,,55m,0.0,55
+236. 1984: 40 Years Strong and True,sport,0.0,,,0.0,0
+237. Rafting Middle Ocoee River with Melissa,sport,0.0,,2h 5m,0.0,125
+238. CZW: Tournament of Death 21,sport,0.0,,,0.0,0
+239. Rafting with Alex Ocoee Middle,sport,0.0,,47m,0.0,47
+240. Snow Going Back: Comic Relief v the Arctic,sport,0.0,,59m,0.0,59
+241. Transitalia Marathon International Classic Motorbike Challenge,sport,0.0,,,0.0,0
+242. Ligure sa Trebevica,sport,0.0,,54m,0.0,54
+243. Until the end,sport,0.0,,,0.0,0
+244. Natural Selection Tour 2024,sport,0.0,,,0.0,0
+245. A La Fin du Film - Real Madrid v Bayern Münich,sport,0.0,,48m,0.0,48
