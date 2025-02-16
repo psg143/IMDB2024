@@ -5,6 +5,7 @@ This project is particularly useful for entertainment analysts, movie enthusiast
 
 
 Step 1: Web Scraping with Selenium
+
 Used Selenium WebDriver to navigate the IMDb 2024 movie list.
 Extracted key details such as Movie Name, Genre, Ratings, Voting Counts, and Duration.
 Implemented explicit waits to handle dynamic page loading.
@@ -12,12 +13,14 @@ Pagination handling ensured that data across multiple pages was captured.
 Stored extracted data temporarily in CSV files before merging them into a structured dataset.
 
 Step 2: Data Storage in SQL
+
 Created a normalized database schema for efficient querying.
 Used SQLAlchemy ORM to manage database operations.
 Imported cleaned CSV data into MySQL, ensuring indexing for faster access.
 Used SQL queries to validate data integrity and eliminate duplicates.
 
 Step 3: Data Analysis & Visualization with Streamlit
+
 Designed a Streamlit dashboard for real-time data exploration.
 Created multiple interactive visualizations, including: 
 Top 10 Movies by Ratings and Votes (Bar chart)
