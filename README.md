@@ -4,6 +4,7 @@ The primary goal is to identify trends in movie ratings, voting counts, and genr
 This project is particularly useful for entertainment analysts, movie enthusiasts, and data scientists who wish to explore IMDb movie statistics interactively.
 
 
+
 Step 1: Web Scraping with Selenium
 
 Used Selenium WebDriver to navigate the IMDb 2024 movie list.
@@ -16,6 +17,7 @@ Pagination handling ensured that data across multiple pages was captured.
 
 Stored extracted data temporarily in CSV files before merging them into a structured dataset.
 
+
 Step 2: Data Storage in SQL
 
 Created a normalized database schema for efficient querying.
@@ -25,6 +27,7 @@ Used SQLAlchemy ORM to manage database operations.
 Imported cleaned CSV data into MySQL, ensuring indexing for faster access.
 
 Used SQL queries to validate data integrity and eliminate duplicates.
+
 
 Step 3: Data Analysis & Visualization with Streamlit
 
