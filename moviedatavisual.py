@@ -100,6 +100,7 @@ def main():
 
     st.header("Top 10 Movies by Rating and Voting Counts")
     st.dataframe(top_10_df,hide_index=True)
+    st.write("**Insights :** Sport and History genre is most likely interested by audience based on Ratings given by them. Mostly highest ratings having less vote count and highest vote count has less rating.")
 
     ######################### Genre Distribution ###################################################
     st.header("Genre Distribution")
@@ -109,6 +110,7 @@ def main():
     plt.figure(figsize=(10, 6))
     sns.barplot(data=Genregrouped_df,x='Genre',y='Count')
     st.pyplot(plt)
+    st.write("**Insights :** In History genre more movies are released in the year of 2024 compared to other genre.")
 
     ######################### Average Duration by Genre #############################################
     st.header("Average Duration by Genre")
@@ -118,6 +120,7 @@ def main():
     plt.figure(figsize=(10, 6))
     sns.barplot(data=GenreAvg_df, x="Duration(in Minutes)", y="Genre", orient = 'h')
     st.pyplot(plt)
+    st.write("**Insights :** In War genre and History genre movies are often have more duration to mention the fiction/real time in detail.")
 
     ######################### Voting Trends by Genre #############################################
     st.header("Voting Trends by Genre")
@@ -129,12 +132,14 @@ def main():
         plt.axhline(mean_values[day], color='purple', linestyle='-', linewidth=3, alpha=0.5)
 
     st.pyplot(plt)
+    st.write("**Insights :** History movies consistently receive high vote counts, indicating a strong preference among audiences for voting. And the purple line denote the average voting count across all genres, which indicates most of movies under each genre are having very less vote count.")
 
     ######################### Rating Distribution #############################################
     st.header("Rating Distribution")
     plt.figure(figsize=(10, 6))
     sns.boxplot(data=df,x='Ratings')
     st.pyplot(plt)
+    st.write("**Insights :** The overall distribution of ratings is relatively balanced, with a slight skew towards higher ratings. This suggests that audiences generally rate movies favorably but are critical of movies that don’t meet their expectations.")
 
     ######################### Genre-Based Rating Leaders #############################################
     st.header("Genre-Based Rating Leaders")
@@ -163,6 +168,7 @@ def main():
     st.pyplot(plt)
 
     # st.dataframe(GenreAvgvc1_df,hide_index=False)
+    st.write("**Insights :** History, Musical and Sport genres lead in popularity, receiving the highest votes among all genres.")
 
     ######################### Duration Extremes #############################################
     st.header("Duration Extremes")
@@ -179,7 +185,7 @@ def main():
         SELECT 'Longest' AS Type, MovieName, DurationOrg, Duration FROM MovieRanks WHERE longest_rank = 1;"""
 
     dfsl = fetch_movie_data(trquery)
-    st.dataframe(dfsl,hide_index=True)
+    st.dataframe(dfsl,hide_index=True) 
 
     ######################### Ratings by Genre #############################################
     st.header("Ratings by Genre")
@@ -190,6 +196,10 @@ def main():
     plt.figure(figsize=(10, 6))
     sns.heatmap(GenreAvgrd1_df, annot=True)
     st.pyplot(plt)
+    st.write("**Insights :**")
+    st.write("**History, War and Sport** genres lead in average ratings, showcasing their popularity and strong audience preference.")
+    st.write("**Western** genres have moderate ratings, indicating consistent and stable reception.")
+    st.write("**Musical** genres have lower average ratings, suggesting that these genres might be more polarizing among audiences.")
 
     ######################### Correlation Analysis #############################################
     st.header("Correlation Analysis")
@@ -197,6 +207,7 @@ def main():
     plt.figure(figsize=(10, 6))
     sns.scatterplot(data=df, x="Ratings", y="Votecount")
     st.pyplot(plt)
+    st.write("**Insights :** There is a strong positive correlation between ratings and vote counts, indicating that Average-rated movies between 5 to 8 Ratings generally receive more votes.")
 
 
 if __name__ == "__main__":
